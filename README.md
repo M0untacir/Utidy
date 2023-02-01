@@ -1,4 +1,4 @@
 # Utidy
- Html parser & data extractor for U++ using libtidy (HTML Tidy).
-# Waht is U++?
- U++ is a C++ cross-platform rapid application development framework. *[More Here](https://github.com/ultimatepp/ultimatepp)*.
+ Html parser & data extractor for Ultimate++ using libtidy (HTML Tidy).
+# Waht is Ultimate++?
+ Ultimate++ or U++ is a C++ cross-platform rapid application development framework. *[More Here](https://github.com/ultimatepp/ultimatepp)*.
